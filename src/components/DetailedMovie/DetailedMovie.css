@@ -1,0 +1,20 @@
+.detail-container {
+  display: flex;
+  margin-top: 50px;
+}
+
+.detail__description-container {
+  width: 60%;
+  margin-left: 50px;
+}
+
+.detail__info {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}

@@ -1,0 +1,15 @@
+.movie__thumbnail {
+  width: 18rem;
+  height: 11rem;
+  margin-right: 2rem;
+}
+
+.movies-container {
+  padding-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.genre-row {
+  margin-top: 40px;
+}
